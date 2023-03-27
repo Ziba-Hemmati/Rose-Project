@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+}
+
+body {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.body-side-bar {
+    line-height: 70px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.topic-side-bar {
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: #012b55;
+}
+
+.side-bar-text {
+    font-size: 2rem;
+    color: #42576d; 
+}
+
+.brands {
+    border-top: 2px solid #e5e9ee;
+    background-color: #fff;
+    position: sticky;
+    bottom: 0;
+}
+
+.footer-icons {
+    font-size: 2rem;
+    margin: 28px 10px;
+    background-color: #e5e9ee;
+    padding: 20px;
+    border-radius: 50%;
+    color: #012b55;
+}
+
+.fa-xmark {
+    font-size: 3rem;
+    position: fixed;
+    right: 30px;
+    top: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:active {
+    color: #000;
+}
